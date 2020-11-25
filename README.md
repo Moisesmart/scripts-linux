@@ -1,5 +1,4 @@
 # scripts-linux
-## Título
 ## Descripción: Aquí podrás encontrar scripts de Linux básicos
 
 
