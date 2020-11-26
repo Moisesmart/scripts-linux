@@ -20,3 +20,6 @@ Indented code
  line 2 of code
  line 3 of code
  Block code "fences"
+ sudo add-apt-repository ppa:wereturtle/ppa
+ sudo apt update
+ sudo apt install ghostwriter
